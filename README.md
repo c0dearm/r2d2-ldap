@@ -2,6 +2,8 @@
 [![Latest Version](https://img.shields.io/crates/v/r2d2-ldap.svg)](https://crates.io/crates/r2d2-ldap)
 [![Docs](https://docs.rs/r2d2-ldap/badge.svg)](https://docs.rs/r2d2-ldap)
 
+LDAP support for the r2d2 connection pool
+
 ## Install
 
 Add this to your `Cargo.toml`:

@@ -3,6 +3,10 @@ name = "r2d2-ldap"
 version = "0.1.0"
 authors = ["Aitor Ruano <codearm@pm.me>"]
 edition = "2018"
+license = "MIT"
+description = "LDAP support for the r2d2 connection pool"
+repository = "https://github.com/c0dearm/r2d2-ldap"
+keywords = ["ldap", "ldap3", "r2d2", "pool", "connection"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
