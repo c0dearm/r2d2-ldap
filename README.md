@@ -1,4 +1,5 @@
 # r2d2-ldap
+[![Build](https://github.com/c0dearm/r2d2-ldap/workflows/Rust/badge.svg?branch=main)](https://github.com/c0dearm/r2d2-ldap/actions)
 [![Latest Version](https://img.shields.io/crates/v/r2d2-ldap.svg)](https://crates.io/crates/r2d2-ldap)
 [![Docs](https://docs.rs/r2d2-ldap/badge.svg)](https://docs.rs/r2d2-ldap)
 
