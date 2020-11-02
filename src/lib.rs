@@ -22,7 +22,7 @@ use r2d2::ManageConnection;
 ///     }
 /// }
 /// ```
-pub struct LDAPConnectionManager(&'static str);
+pub struct LDAPConnectionManager(pub &'static str);
 
 impl ManageConnection for LDAPConnectionManager {
     type Connection = LdapConn;
