@@ -1,0 +1,11 @@
+[package]
+name = "r2d2-ldap"
+version = "0.1.0"
+authors = ["Aitor Ruano <codearm@pm.me>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ldap3 = { version = "0.8", default-features = false, features = ["sync"] }
+r2d2 = "0.8"
