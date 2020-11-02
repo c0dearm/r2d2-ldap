@@ -11,7 +11,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-r2d2-ldap = "0.1.0"
+r2d2-ldap = "0.1.1"
 ```
 
 ## Basic Usage
